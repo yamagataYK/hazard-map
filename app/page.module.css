@@ -1,3 +1,16 @@
-.dd {
-    color: aqua;
+.title {
+    font-size: 40px;
+    margin-top: 50px;
+}
+
+.subtitle {
+    font-size: 30px;
+    margin-top: 50px;
+}
+
+.Btn {
+    width: 100px;
+    padding: 20px;
+    background-color: rgb(255, 149, 149);
+
 }
